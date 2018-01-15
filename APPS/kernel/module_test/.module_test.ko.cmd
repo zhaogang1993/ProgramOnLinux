@@ -1,0 +1,1 @@
+cmd_/home/zhaogang/share/code_new/APPS/kernel/module_test/module_test.ko := ld -r -m elf_i386 -T ./scripts/module-common.lds --build-id  -o /home/zhaogang/share/code_new/APPS/kernel/module_test/module_test.ko /home/zhaogang/share/code_new/APPS/kernel/module_test/module_test.o /home/zhaogang/share/code_new/APPS/kernel/module_test/module_test.mod.o
